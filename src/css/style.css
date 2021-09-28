@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'times new roman';  
+    color: rgb(0,0,0); 
+    text-align: left; 
+    margin-left:40; 
+    margin-right:40; 
+    background-color:rgb(255, 255, 224);
+}
+
+h1 {
+    font-family: 'times new roman'; 
+    font-size: 12pt; 
+    color: rgb(204,0,0); 
+    font-weight: bold; 
+    text-align: center; 
+}
+
+h2 {
+    font-family: 'times new roman';
+    font-size: 12pt; 
+    font-style: normal; 
+    color: rgb(204,0,0);  
+    text-align: center;
+}
+
+p {
+    font-family: 'times new roman'; 
+    font-size: 10pt; 
+    font-style: normal; 
+    color: rgb(0,0,0); 
+}
+
+span {
+    font-family: 'times new roman'; 
+    font-size: 10pt; 
+    font-style: italic;
+    color: rgb(0,0,0); 
+}
+
+main {
+    margin-left: 20px;
+}
